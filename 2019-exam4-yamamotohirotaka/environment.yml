@@ -1,0 +1,11 @@
+name: exam-4-numpy
+channels:
+- defaults
+dependencies:
+- python=3.6
+- numpy==1.14.0
+- pandas==0.22.0
+- jupyter==1.0
+- scipy==1.0.0
+- matplotlib==2.1.1
+
